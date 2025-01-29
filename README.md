@@ -25,16 +25,8 @@ A smart attendance system using facial recognition that integrates with Firebase
 | cvzone | GUI elements and interface design |
 | NumPy | Image data manipulation |
 
-## Installation & Setup 🛠️
-
-### Prerequisites
+## Prerequisites
 - Python 3.8+
 - Webcam
 - Firebase project with Realtime Database and Storage
 
-### Setup Instructions
-1. **Clone repository**
-```bash
-git clone https://github.com/ReetamKole/face-attendance-system.git
-cd face-attendance-system
- 
